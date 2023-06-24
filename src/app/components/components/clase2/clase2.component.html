@@ -1,0 +1,40 @@
+<mat-card ngClass="mt-3" *ngFor="let items of json.explicacion">
+  <mat-card-title class="mt-2"
+    ><h3>{{ items.title }}</h3></mat-card-title
+  >
+  <mat-card-content class="mt-2">
+    <img [src]="items.img" ngClass="img-withd" />
+    <p>
+      {{ items.item }}
+    </p>
+  </mat-card-content>
+</mat-card>
+
+<mat-card class="mt-3">
+  <mat-card-title><h3>Comentarios</h3></mat-card-title>
+  <hr />
+  <mat-card-content>
+    <div *ngFor="let item of comentarios">
+      <p id="fomart-text">{{ item.comentario }}</p>
+    </div>
+  </mat-card-content>
+</mat-card>
+
+<mat-card class="mt-5">
+  <mat-card-title><h4>Observacion</h4></mat-card-title>
+  <mat-card-content class="mt-1">
+    <form [formGroup]="comentata" (ngSubmit)="agregaComentario()">
+      <mat-form-field class="col-12">
+        <mat-label>Agrega tu comentario</mat-label>
+        <textarea
+          matInput
+          #message
+          maxlength="256"
+          formControlName="comentario"
+          placeholder="comentario"
+        ></textarea>
+      </mat-form-field>
+      <button type="submit" class="btn btn-primary">comentar</button>
+    </form>
+  </mat-card-content>
+</mat-card>

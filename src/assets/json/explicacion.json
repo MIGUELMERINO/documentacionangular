@@ -1,0 +1,37 @@
+{
+	"explicacion" : [
+    {
+      "title" : "Configuración",
+			"item" : "En esta sección podemos visualizar en donde se agregan los paquetes instalados.",
+			"img" : "../../../../assets/img/clase2/paked.png"
+		},
+    {
+      "title" : "",
+      "item" : "Aquí se agrega la configuración de algunos archivos necesarios para poder trabajar con los paquetes instalados en angular, como angualar-bootstrap y sweetalert2",
+      "img" : "../../../../assets/img/clase2/agregaconfiguracion.png"
+    },{
+      "title" : "",
+      "item" : "Como se muestra en la imagen se agrega automaticamente ng-bootstrap dentro de nuestro archivo principal AppModule",
+      "img" : "../../../../assets/img/clase2/configuracionngbotsrap.png"
+    },
+    {
+      "title" : "",
+      "item" : "Aquí vamos a visualizar la creación del crud y conoceremos la parte de servicios, se crea uno general para poder acceder y no repetir el proceso N veces.",
+      "img" : "../../../../assets/img/clase2/configuracioncrud1.png"
+    },
+		{
+      "title" : "",
+			"item" : "Aquí vamos a visualizar la sección del listamos de ruta o enpoints, con estas también vamos a poder validaras puesto que aquí podremos cambiarlas sin dificultar, un mejor mantenimiento.",
+			"img" : "../../../../assets/img/clase2/url.png"
+		}, {
+      "title" : "",
+      "item" : "Aquí vamos a visualizar la sección del listamos de ruta o enpoints, con estas también vamos a poder validaras puesto que aquí podremos cambiarlas sin dificultar, un mejor mantenimiento.",
+      "img" : "../../../../assets/img/clase2/enpoint.png"
+    },
+    {
+      "title" : "Configuración de Authetication Service",
+      "item" : "Aquí vamos a visualiar como se debe de agregar un archivo independiente al ya antes mencionado de crud para tener separada la solicitud y aparte el realizar el inicio de session como buena practica.",
+      "img" : "../../../../assets/img/clase2/authservice.png"
+    }
+	]
+}
