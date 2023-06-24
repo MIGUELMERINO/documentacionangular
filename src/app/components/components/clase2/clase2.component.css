@@ -1,0 +1,19 @@
+.img-withd {
+  width: 80%;
+  display: block;
+  margin: auto;
+}
+
+p{
+  font-size: 2rem !important;
+}
+
+
+h3 {
+  margin-left: 1rem;
+}
+
+
+#fomart-text {
+  font-size: 1rem !important;
+}
