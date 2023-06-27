@@ -1,0 +1,12 @@
+<mat-accordion class="mt-3" *ngFor="let item of actividad1">
+  <mat-expansion-panel (opened)="showPanel = true" (closed)="showPanel = false">
+    <mat-expansion-panel-header>
+      <mat-panel-title>{{ item.title }}</mat-panel-title>
+    </mat-expansion-panel-header>
+    <pdf-viewer
+      [src]="item.pdf"
+      [original-size]="true"
+      class="pdf-viewer"
+    ></pdf-viewer>
+  </mat-expansion-panel>
+</mat-accordion>
