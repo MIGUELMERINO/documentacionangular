@@ -20,10 +20,42 @@
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" routerLink="clase1">Primer Clase</a>
+        <a class="nav-link" routerLink="" [routerLinkActive]="['active', '']"
+          >?</a
+        >
       </li>
       <li class="nav-item">
-        <a class="nav-link" routerLink="clase2">Segunda Clase</a>
+        <a
+          class="nav-link"
+          routerLink="clase2"
+          [routerLinkActive]="['active', '']"
+          >Clase</a
+        >
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          routerLink="documentacion"
+          [routerLinkActive]="['active', '']"
+        >
+          Documentacion Angular</a
+        >
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          routerLink="actividad"
+          [routerLinkActive]="['active', '']"
+          >Actividades</a
+        >
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          routerLink="evidencias"
+          [routerLinkActive]="['active', '']"
+          >Evidencia Alumnos</a
+        >
       </li>
     </ul>
   </div>
