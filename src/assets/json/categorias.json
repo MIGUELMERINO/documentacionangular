@@ -1,0 +1,727 @@
+[
+  {
+      "idcategoria": 1,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 2,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 3,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 4,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 5,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 6,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 7,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 8,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 9,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 10,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 11,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 12,
+      "nombre": "Categoria J ANGEL",
+      "descripcion": "Descripcion JAGC"
+  },
+  {
+      "idcategoria": 13,
+      "nombre": "CATEGORIA BECR",
+      "descripcion": "DESCRIPCION BECR"
+  },
+  {
+      "idcategoria": 14,
+      "nombre": "categoria erick",
+      "descripcion": "Descripcion EGG"
+  },
+  {
+      "idcategoria": 15,
+      "nombre": "Categoría GC2 modificado",
+      "descripcion": "Descripción GC"
+  },
+  {
+      "idcategoria": 16,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion PCM"
+  },
+  {
+      "idcategoria": 17,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 18,
+      "nombre": "Categoria J ANGEL",
+      "descripcion": "Descripcion JAGC"
+  },
+  {
+      "idcategoria": 19,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 20,
+      "nombre": "Categoria R",
+      "descripcion": "Descripción R"
+  },
+  {
+      "idcategoria": 21,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion PCM"
+  },
+  {
+      "idcategoria": 22,
+      "nombre": "Refrescos",
+      "descripcion": "Refrescos de sabor"
+  },
+  {
+      "idcategoria": 23,
+      "nombre": "Categoria yael",
+      "descripcion": "Descripcion YBF"
+  },
+  {
+      "idcategoria": 24,
+      "nombre": "Categoria RAMDY ROA",
+      "descripcion": "Descripcion XYZ"
+  },
+  {
+      "idcategoria": 25,
+      "nombre": "categoriaX",
+      "descripcion": "Descripcion XYZ"
+  },
+  {
+      "idcategoria": 26,
+      "nombre": "Categoria JulioPatino",
+      "descripcion": "Categoria JP"
+  },
+  {
+      "idcategoria": 27,
+      "nombre": "iuioui",
+      "descripcion": "kjlkjkl"
+  },
+  {
+      "idcategoria": 28,
+      "nombre": "Nombre de categoría",
+      "descripcion": "Categoría 100"
+  },
+  {
+      "idcategoria": 29,
+      "nombre": "Nombre de categoría",
+      "descripcion": "Categoría 100"
+  },
+  {
+      "idcategoria": 30,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 31,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 32,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 33,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 34,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 35,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 36,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 37,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 38,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 39,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 40,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 41,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 42,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 43,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 44,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 45,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 46,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 47,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 48,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 49,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 50,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 51,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 52,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 53,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 54,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 55,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 56,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 57,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 58,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 59,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 60,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 61,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 62,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 63,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 64,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 65,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 66,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 67,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 68,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 69,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 70,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 71,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 72,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 73,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 74,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 75,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 76,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 77,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 78,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 79,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 80,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 81,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 82,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 83,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 84,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 85,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 86,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 87,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 88,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 89,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 90,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 91,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 92,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 93,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 94,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 95,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 96,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 97,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 98,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 99,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 100,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 101,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 102,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 103,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 104,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 105,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 106,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 107,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 108,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 109,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 110,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 111,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 112,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 113,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 114,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 115,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 116,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 117,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 118,
+      "nombre": "Test 1",
+      "descripcion": "Test 1"
+  },
+  {
+      "idcategoria": 119,
+      "nombre": "Test 1",
+      "descripcion": "Test 1"
+  },
+  {
+      "idcategoria": 120,
+      "nombre": "Test 1",
+      "descripcion": "Test 1"
+  },
+  {
+      "idcategoria": 121,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 122,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 123,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 124,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 125,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 126,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 127,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 128,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 129,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 130,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 131,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 132,
+      "nombre": "Categoria 1",
+      "descripcion": "Descripcion 1"
+  },
+  {
+      "idcategoria": 133,
+      "nombre": "Categoria 2",
+      "descripcion": "Descripcion 2"
+  },
+  {
+      "idcategoria": 134,
+      "nombre": "Categoria 3",
+      "descripcion": "Descripcion 3"
+  },
+  {
+      "idcategoria": 135,
+      "nombre": "Categoria 4",
+      "descripcion": "Descripcion 4"
+  },
+  {
+      "idcategoria": 136,
+      "nombre": "Categoria 5",
+      "descripcion": "Descripcion 5"
+  },
+  {
+      "idcategoria": 137,
+      "nombre": "Categoria 6",
+      "descripcion": "Descripcion 6"
+  },
+  {
+      "idcategoria": 138,
+      "nombre": "Categoria 7",
+      "descripcion": "Descripcion 7"
+  },
+  {
+      "idcategoria": 139,
+      "nombre": "Categoria 8",
+      "descripcion": "Descripcion 8"
+  },
+  {
+      "idcategoria": 140,
+      "nombre": "Categoria 9",
+      "descripcion": "Descripcion 9"
+  },
+  {
+      "idcategoria": 141,
+      "nombre": "Categoria 10",
+      "descripcion": "Descripcion 10"
+  },
+  {
+      "idcategoria": 142,
+      "nombre": "Categoria Gerardo",
+      "descripcion": "Descripcion GG"
+  },
+  {
+      "idcategoria": 143,
+      "nombre": "Tenis",
+      "descripcion": "tenis, adidas, nike, puma, panam"
+  },
+  {
+      "idcategoria": 144,
+      "nombre": "Auto deportivo 01",
+      "descripcion": "Nueva Categoria Auto deportivo"
+  },
+  {
+      "idcategoria": 145,
+      "nombre": "Auto deportivo 01",
+      "descripcion": "Nueva Categoria Auto deportivo"
+  }
+]

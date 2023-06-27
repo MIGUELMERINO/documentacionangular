@@ -8,3 +8,8 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
   border: 50% !important;
   margin-left: 1rem;
 }
+
+h3 {
+  margin-left: 1rem;
+  margin-top: 1rem !important;
+}

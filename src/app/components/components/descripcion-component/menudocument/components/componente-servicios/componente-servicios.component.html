@@ -1,0 +1,159 @@
+<mat-card>
+  <mat-card-title><h3>Estructura de Componente</h3></mat-card-title>
+  <mat-card-content>
+    <p>Comando en terminal (CMD)</p>
+    <p>
+      <strong
+        >ng generate component nombrecomponente (nombre del componente), ng g c
+        nombrecomponente</strong
+      >
+    </p>
+    <p>
+      Un componente, debe de tener al momento de crearce 3 archivos que vienen
+      dentro de una carptea con el nombre que se creo, y los 3 archivos son, un
+      archivo .ts, un .html y alguna hoja de estilo.
+    </p>
+    <img
+      src="../../../../../../../assets/img/documentation/componente.png"
+      alt="estructura angular"
+    />
+    <ul class="mt-3">
+      <li>
+        <strong>Hola de estilo (css, scss, sass): </strong>
+        <p>
+          Aqui vamos a colocar los estilo exclusivos del componente, ningun otro
+          componenete podra modificarse con esta hoja de estilo.
+        </p>
+      </li>
+      <li>
+        <strong>Html:</strong>
+        <p>
+          Aqui vamos a colocar el lenguaje de marcado (tag), con el cual le
+          daremos una estructura a nuestro componente.
+        </p>
+      </li>
+      <li>
+        <strong>TS</strong>
+        <p>
+          El archivo TS es aquel que nos va ayudar a darle funcionalidad a
+          nuestro componente, aqui podemos colocar la conexion a un servicio que
+          vamos describir mas adelante, tambien vamos a colocar variables y
+          metodo (funciones en JavaScript) con las cuales al momento de dar clic
+          al boton o rellenar el formularion podremos realizar una accion y
+          darle al usuario una respuesta a dicha accion.
+        </p>
+      </li>
+    </ul>
+
+    <img
+      src="../../../../../../../assets/img/documentation/codecomponent.png"
+      alt="estructura angular"
+      class="img-withd"
+    />
+    <p class="mt-3">
+      <strong>@Component</strong> es una anotacion que debe de llevar el archivo
+      .ts ya que internamente angular lo podra tomar como tal un componente, con
+      el cual le vamos a dar la funcionalidad del componente en un lenguaje de
+      TypeScript.
+    </p>
+    <ul class="mt-3">
+      <li>
+        <strong>Selector</strong>
+        <p>
+          Es una directiva con la cual vamos a poder colocar mediante un tag y
+          el nombre del selector ejemplo "< app-componente-servicios />" y este
+          componente se podra visualizar en cualquier parte del proyecto.
+        </p>
+      </li>
+      <li>
+        <strong>TemplateUrl</strong>
+        <p>
+          aqui se colocar la ruta del archivo html del component y colocar el
+          lenguaje de marcado.
+        </p>
+      </li>
+      <li>
+        <strong>styleUrls</strong>
+        <p>
+          colocar al ruta de la hoja de estilo, esta puede ser css, scss, sass.
+        </p>
+      </li>
+      <li>
+        <strong>Clase</strong>
+        <p>
+          se colca export class nombredelcomponente con esto quiero decir quiero
+          que exportar mi clase para que cualquier componente pueda ocuparlo
+        </p>
+      </li>
+    </ul>
+  </mat-card-content>
+</mat-card>
+
+<mat-card>
+  <mat-card-title><h3>Agregar componente en app.module.ts</h3></mat-card-title>
+  <mat-card-content>
+    <img
+      src="../../../../../../../assets/img/documentation/ngmodule.png"
+      alt="app module"
+      class="img-withd"
+    />
+    <ul class="mt-3">
+      <li>
+        <strong>@ngModule</strong>
+        <p>
+          esta anotacion es importante ya que aqui se configura los componente,
+          dependencias, servicios.
+        </p>
+      </li>
+      <li>
+        <strong>declarations</strong>
+        <p>
+          Aqui se declaran los componente para que el archivo de configuracion
+          puede ocupar el componente en cualquier otro componente del proyecto.
+        </p>
+      </li>
+      <li>
+        <strong>imports</strong>
+        <p>
+          Aqui se debe colocar los servicios, clases que necesitamos ocupar
+          dentro del proyecto.
+        </p>
+      </li>
+      <li>
+        <strong>bootstrap</strong>
+        <p>Aqui se colocar el componente que se desea iniciar</p>
+      </li>
+    </ul>
+  </mat-card-content>
+</mat-card>
+
+<mat-card class="mt-3">
+  <mat-card-title><h3>Estructura de un servicio</h3></mat-card-title>
+  <mat-card-content>
+    <p>Comando en terminal (CMD)</p>
+    <p>
+      <strong
+        >ng generate service nombrecomponente (nombre del componente), ng g s
+        nombrecomponente</strong
+      >
+    </p>
+    <img
+      src="../../../../../../../assets/img/documentation/service.png"
+      alt="app module"
+      class="img-withd"
+    />
+    <ul class="mt-3">
+      <li>
+        <strong>@Injectable</strong>
+        <p>
+          Esta anotacion es para definir que es un servicio, dentro de la
+          estructura de angular.
+        </p>
+      </li>
+    </ul>
+    <p>
+      En este servicio vamos a realizar la conexion a la
+      <strong>back-end</strong> y conectar hacia el componente
+    </p>
+  </mat-card-content>
+</mat-card>

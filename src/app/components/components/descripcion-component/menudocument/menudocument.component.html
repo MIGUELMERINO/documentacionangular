@@ -1,0 +1,29 @@
+<div class="row mt-3">
+  <div class="col-4">
+    <div class="card">
+      <div class="btn-group-vertical">
+        <a
+          class="btn btn-primary"
+          routerLink="proyecto"
+          [routerLinkActive]="['active', '']"
+          >Instalar angular</a
+        >
+        <a
+          class="btn btn-primary"
+          routerLink="creaproyecto"
+          [routerLinkActive]="['active', '']"
+          >Crear proyecto</a
+        >
+        <a
+          class="btn btn-primary"
+          routerLink="componenteservice"
+          [routerLinkActive]="['active', '']"
+          >Componente y servicios</a
+        >
+      </div>
+    </div>
+  </div>
+  <div class="col-8">
+    <router-outlet></router-outlet>
+  </div>
+</div>
