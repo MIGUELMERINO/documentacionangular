@@ -1,0 +1,1042 @@
+[
+    {
+        "idcompra": 15,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 500.00,
+        "fecha": "2022-04-06T00:00:00.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 16,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 500.00,
+        "fecha": "2022-04-07T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 3,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 2,
+                "costo": 1000.00
+            },
+            {
+                "idcompraproducto": 2,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 2,
+                "costo": 10.00
+            }
+        ]
+    },
+    {
+        "idcompra": 17,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 500.00,
+        "fecha": "2022-04-06T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 4,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 2,
+                "costo": 20.00
+            }
+        ]
+    },
+    {
+        "idcompra": 19,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 500.00,
+        "fecha": "2022-04-06T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 5,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 2,
+                "costo": 20.00
+            }
+        ]
+    },
+    {
+        "idcompra": 20,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 1500.00,
+        "fecha": "2022-04-07T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 7,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 9,
+                "costo": 15.00
+            },
+            {
+                "idcompraproducto": 6,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 8,
+                "costo": 5500.00
+            }
+        ]
+    },
+    {
+        "idcompra": 22,
+        "cliente": {
+            "idcliente": 2,
+            "nombre": "Yael",
+            "apaterno": "Ber",
+            "amaterno": "Fajar",
+            "rfc": "BEFY023120..."
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 400.00,
+        "fecha": "2022-04-06T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 8,
+                "producto": {
+                    "idproducto": 6,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 6 cat 1",
+                    "descripcion": "Descripcion 6",
+                    "precio": 6392.78,
+                    "stock": 634,
+                    "sku": "SKU 6"
+                },
+                "cantidad": 1,
+                "costo": 200.00
+            },
+            {
+                "idcompraproducto": 9,
+                "producto": {
+                    "idproducto": 2,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 2 cat 1",
+                    "descripcion": "Descripcion 2",
+                    "precio": 917.19,
+                    "stock": 201,
+                    "sku": "SKU 2"
+                },
+                "cantidad": 4,
+                "costo": 200.00
+            }
+        ]
+    },
+    {
+        "idcompra": 23,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 1500.00,
+        "fecha": "2022-04-07T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 10,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 9,
+                "costo": 15.00
+            },
+            {
+                "idcompraproducto": 11,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 8,
+                "costo": 5500.00
+            }
+        ]
+    },
+    {
+        "idcompra": 24,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 8888.00,
+        "fecha": "2022-04-07T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 12,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 8,
+                "costo": 88.00
+            },
+            {
+                "idcompraproducto": 13,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 88,
+                "costo": 8888.00
+            }
+        ]
+    },
+    {
+        "idcompra": 25,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 9999.00,
+        "fecha": "2022-04-07T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 14,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 99,
+                "costo": 9999.00
+            },
+            {
+                "idcompraproducto": 15,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 9,
+                "costo": 99.00
+            }
+        ]
+    },
+    {
+        "idcompra": 26,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 321.00,
+        "fecha": "2022-04-06T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 17,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 2,
+                "costo": 342.00
+            },
+            {
+                "idcompraproducto": 16,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 2,
+                "costo": 123.00
+            }
+        ]
+    },
+    {
+        "idcompra": 27,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 500.00,
+        "fecha": "2022-04-07T00:00:00.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 19,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 2,
+                "costo": 10.00
+            },
+            {
+                "idcompraproducto": 18,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 2,
+                "costo": 1000.00
+            }
+        ]
+    },
+    {
+        "idcompra": 28,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 29,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 30,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 31,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 32,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 33,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 34,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 35,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 36,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 37,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 38,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 39,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": []
+    },
+    {
+        "idcompra": 40,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 6923.81,
+        "fecha": "2022-05-25T20:00:51.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 1,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 1,
+                "costo": 0.00
+            }
+        ]
+    },
+    {
+        "idcompra": 42,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 100.00,
+        "fecha": "2022-11-02T18:48:10.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 20,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 10,
+                "costo": 10.00
+            }
+        ]
+    },
+    {
+        "idcompra": 43,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 7841.00,
+        "fecha": "2022-11-09T19:01:30.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 21,
+                "producto": {
+                    "idproducto": 2,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 2 cat 1",
+                    "descripcion": "Descripcion 2",
+                    "precio": 917.19,
+                    "stock": 201,
+                    "sku": "SKU 2"
+                },
+                "cantidad": 1,
+                "costo": 917.19
+            },
+            {
+                "idcompraproducto": 22,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 1,
+                "costo": 6923.81
+            }
+        ]
+    },
+    {
+        "idcompra": 44,
+        "cliente": {
+            "idcliente": 1,
+            "nombre": "Gabriela",
+            "apaterno": "Cord",
+            "amaterno": "Gtz",
+            "rfc": "COGG2325345T5"
+        },
+        "usuario": {
+            "idusuario": 1,
+            "email": "x",
+            "nombre": "gerardo",
+            "apaterno": "guerrero",
+            "amaterno": "g",
+            "activo": true,
+            "perfil": "ADMIN"
+        },
+        "total": 7841.00,
+        "fecha": "2022-11-09T19:03:08.000+00:00",
+        "compraproductos": [
+            {
+                "idcompraproducto": 23,
+                "producto": {
+                    "idproducto": 2,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 2 cat 1",
+                    "descripcion": "Descripcion 2",
+                    "precio": 917.19,
+                    "stock": 201,
+                    "sku": "SKU 2"
+                },
+                "cantidad": 1,
+                "costo": 917.19
+            },
+            {
+                "idcompraproducto": 24,
+                "producto": {
+                    "idproducto": 1,
+                    "categoria": {
+                        "idcategoria": 1,
+                        "nombre": "Categoria 1",
+                        "descripcion": "Descripcion 1"
+                    },
+                    "nombre": "Producto 1 cat 1",
+                    "descripcion": "Descripcion 1",
+                    "precio": 6923.81,
+                    "stock": 204,
+                    "sku": "SKU 1"
+                },
+                "cantidad": 1,
+                "costo": 6923.81
+            }
+        ]
+    }
+]
