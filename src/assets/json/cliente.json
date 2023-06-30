@@ -1,0 +1,23 @@
+[
+    {
+        "idcliente": 1,
+        "nombre": "Gabriela",
+        "apaterno": "Cord",
+        "amaterno": "Gtz",
+        "rfc": "COGG2325345T5"
+    },
+    {
+        "idcliente": 2,
+        "nombre": "Yael",
+        "apaterno": "Ber",
+        "amaterno": "Fajar",
+        "rfc": "BEFY023120..."
+    },
+    {
+        "idcliente": 3,
+        "nombre": "Ramdy",
+        "apaterno": "Roa",
+        "amaterno": "Jimenez",
+        "rfc": "RORJ830925FRTD"
+    }
+]
