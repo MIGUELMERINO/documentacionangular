@@ -26,6 +26,7 @@ import { MatExpansionModule } from '@angular/material/expansion';
 import { PdfViewerModule } from 'ng2-pdf-viewer';
 import { ActividadalumnosComponent } from './components/alumnoscomponents/components/actividadalumnos/actividadalumnos.component';
 import { ContainerAlumnosComponent } from './components/alumnoscomponents/components/container-alumnos/container-alumnos.component';
+import { PipesComponent } from './components/components/descripcion-component/menudocument/components/pipes/pipes.component';
 
 @NgModule({
   declarations: [
@@ -43,6 +44,7 @@ import { ContainerAlumnosComponent } from './components/alumnoscomponents/compon
     ListActividadesComponent,
     ActividadalumnosComponent,
     ContainerAlumnosComponent,
+    PipesComponent,
   ],
   imports: [
     BrowserModule,
