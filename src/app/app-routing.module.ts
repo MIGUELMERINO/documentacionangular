@@ -10,6 +10,7 @@ import { CreaproyectoComponent } from './components/components/descripcion-compo
 import { ComponenteServiciosComponent } from './components/components/descripcion-component/menudocument/components/componente-servicios/componente-servicios.component';
 import { ListActividadesComponent } from './components/components/list-actividades/list-actividades.component';
 import { ContainerAlumnosComponent } from './components/alumnoscomponents/components/container-alumnos/container-alumnos.component';
+import { PipesComponent } from './components/components/descripcion-component/menudocument/components/pipes/pipes.component';
 
 const routes: Routes = [
   {
@@ -43,6 +44,10 @@ const routes: Routes = [
               {
                 path: 'componenteservice',
                 component: ComponenteServiciosComponent,
+              },
+              {
+                path: 'pipes',
+                component: PipesComponent,
               },
             ],
           },
