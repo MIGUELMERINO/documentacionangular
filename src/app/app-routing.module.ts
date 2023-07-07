@@ -11,6 +11,7 @@ import { ComponenteServiciosComponent } from './components/components/descripcio
 import { ListActividadesComponent } from './components/components/list-actividades/list-actividades.component';
 import { ContainerAlumnosComponent } from './components/alumnoscomponents/components/container-alumnos/container-alumnos.component';
 import { PipesComponent } from './components/components/descripcion-component/menudocument/components/pipes/pipes.component';
+import { TableCchComponent } from './components/alumnoscomponents/components/table-cch/table-cch.component';
 
 const routes: Routes = [
   {
@@ -59,7 +60,7 @@ const routes: Routes = [
       },
       {
         path: 'evidencias',
-        component: ContainerAlumnosComponent,
+        component: TableCchComponent,
       },
     ],
   },

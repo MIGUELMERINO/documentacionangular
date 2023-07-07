@@ -45,8 +45,7 @@ import { TableCchComponent } from './components/alumnoscomponents/components/tab
     ListActividadesComponent,
     ActividadalumnosComponent,
     ContainerAlumnosComponent,
-    PipesComponent,
-    TableCchComponent,
+    PipesComponent
   ],
   imports: [
     BrowserModule,
@@ -61,6 +60,7 @@ import { TableCchComponent } from './components/alumnoscomponents/components/tab
     MatButtonModule,
     MatExpansionModule,
     PdfViewerModule,
+    TableCchComponent
   ],
   providers: [],
   bootstrap: [AppComponent],
