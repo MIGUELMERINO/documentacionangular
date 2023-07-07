@@ -27,6 +27,7 @@ import { PdfViewerModule } from 'ng2-pdf-viewer';
 import { ActividadalumnosComponent } from './components/alumnoscomponents/components/actividadalumnos/actividadalumnos.component';
 import { ContainerAlumnosComponent } from './components/alumnoscomponents/components/container-alumnos/container-alumnos.component';
 import { PipesComponent } from './components/components/descripcion-component/menudocument/components/pipes/pipes.component';
+import { TableCchComponent } from './components/alumnoscomponents/components/table-cch/table-cch.component';
 
 @NgModule({
   declarations: [
@@ -45,6 +46,7 @@ import { PipesComponent } from './components/components/descripcion-component/me
     ActividadalumnosComponent,
     ContainerAlumnosComponent,
     PipesComponent,
+    TableCchComponent,
   ],
   imports: [
     BrowserModule,
