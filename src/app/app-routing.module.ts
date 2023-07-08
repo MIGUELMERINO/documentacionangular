@@ -9,9 +9,8 @@ import { ProyectoComponent } from './components/components/descripcion-component
 import { CreaproyectoComponent } from './components/components/descripcion-component/menudocument/components/creaproyecto/creaproyecto.component';
 import { ComponenteServiciosComponent } from './components/components/descripcion-component/menudocument/components/componente-servicios/componente-servicios.component';
 import { ListActividadesComponent } from './components/components/list-actividades/list-actividades.component';
-import { ContainerAlumnosComponent } from './components/alumnoscomponents/components/container-alumnos/container-alumnos.component';
 import { PipesComponent } from './components/components/descripcion-component/menudocument/components/pipes/pipes.component';
-import { TableCchComponent } from './components/alumnoscomponents/components/table-cch/table-cch.component';
+import { TableCchComponent } from './components/alumnoscomponents/components/container-alumnos/table-cch/table-cch.component';
 
 const routes: Routes = [
   {

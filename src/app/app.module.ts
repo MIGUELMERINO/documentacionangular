@@ -1,6 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-
+import { CommonModule } from '@angular/common';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -27,8 +27,7 @@ import { PdfViewerModule } from 'ng2-pdf-viewer';
 import { ActividadalumnosComponent } from './components/alumnoscomponents/components/actividadalumnos/actividadalumnos.component';
 import { ContainerAlumnosComponent } from './components/alumnoscomponents/components/container-alumnos/container-alumnos.component';
 import { PipesComponent } from './components/components/descripcion-component/menudocument/components/pipes/pipes.component';
-import { TableCchComponent } from './components/alumnoscomponents/components/table-cch/table-cch.component';
-
+import { FiltroPaginacionPipe } from 'src/app/pipe/filtro-paginacion.pipe';
 @NgModule({
   declarations: [
     AppComponent,
@@ -45,6 +44,7 @@ import { TableCchComponent } from './components/alumnoscomponents/components/tab
     ListActividadesComponent,
     ActividadalumnosComponent,
     ContainerAlumnosComponent,
+    FiltroPaginacionPipe,
     PipesComponent
   ],
   imports: [
@@ -60,9 +60,10 @@ import { TableCchComponent } from './components/alumnoscomponents/components/tab
     MatButtonModule,
     MatExpansionModule,
     PdfViewerModule,
-    TableCchComponent
+    CommonModule
   ],
   providers: [],
   bootstrap: [AppComponent],
+  exports: [FiltroPaginacionPipe]
 })
 export class AppModule {}
